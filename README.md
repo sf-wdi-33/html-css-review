@@ -100,7 +100,7 @@ Refer to [resource.md](resource.md), [WDI fundamentals](http://fundamentals.gene
 
 ## Independent Practice
 
-Check your understanding with this site recreation [training](https://github.com/sf-wdi-31/site-recreation)!  This is a common web development interview task, especially for front end roles.
+Check your understanding with this site recreation [training](https://github.com/sf-wdi-33/site-recreation)!  This is a common web development interview task, especially for front end roles.
 
 
 ## Closing Thoughts
